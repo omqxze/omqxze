@@ -6,8 +6,8 @@
 
 <h4 align="center">⚙️ COURSE ⚙️</h3>
 <p align="center">
-  <li>🔴🔵🟠 CJ올리브네트웍스 CLOUD WAVE 2기 수료 🔴🔵🟠</li>
-  <li>🖥️🖥️🖥️ 경기대학교 AI 컴퓨터공학부 🖥️🖥️🖥️</li>
+  <a>🔴🔵🟠 CJ올리브네트웍스 CLOUD WAVE 2기 수료 🔴🔵🟠</a>
+  <a>🖥️🖥️🖥️ 경기대학교 AI 컴퓨터공학부 🖥️🖥️🖥️</a>
 </p>
 
 <h4 align="center">⚙️ CLOUD ⚙️</h3>
