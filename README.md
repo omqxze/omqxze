@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=ParkJeongHoon&fontSize=20" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omqxze"/>&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omqxze"/>
 </p>
 
 <h4 align="center">⚙️ COURSE ⚙️</h3>
 <p align="center">
-  <a>🔴🔵🟠 CJ올리브네트웍스 CLOUD WAVE 2기 수료 🔴🔵🟠</a>&nbsp
+  <a>🔴🔵🟠 CJ올리브네트웍스 CLOUD WAVE 2기 수료 🔴🔵🟠</a><br>
   <a>🖥️🖥️🖥️ 경기대학교 AI 컴퓨터공학부 🖥️🖥️🖥️</a>
 </p>
 
