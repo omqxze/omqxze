@@ -4,6 +4,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omqxze"/>&nbsp
 </p>
 
+<h4 align="center">⚙️ COURSE ⚙️</h3>
+<p align="center">
+  <li>🔴🔵🟠 CJ올리브네트웍스 CLOUD WAVE 2기 수료 🔴🔵🟠</li>
+  <li>🖥️🖥️🖥️ 경기대학교 AI 컴퓨터공학부 🖥️🖥️🖥️</li>
+</p>
+
 <h4 align="center">⚙️ CLOUD ⚙️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
